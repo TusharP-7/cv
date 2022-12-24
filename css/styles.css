@@ -1,0 +1,41 @@
+body{
+    background-color: #F0E9D2;
+}
+h1{
+    color: #D98C00;
+}
+
+h3{
+    color: #D98C00;
+}
+
+h4{
+    color: #A555EC;
+}
+
+hr{
+    border-style: none;
+    border-top: dotted;
+    border-width: 3px;
+    width: 5%;
+    border-color: #F90716;
+
+}
+
+.intro{
+    color: #FF5403;
+    font-size: 20px;
+}
+
+/*  li stands for list item*/
+li{
+    color: #FF5403;
+}
+
+thead{
+    color: #A555EC;
+}
+
+tbody{
+    color: #FF5403; 
+}
